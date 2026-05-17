@@ -1,14 +1,14 @@
-# Telco Customer Churn - Analisis Exploratorio de Datos
+# 📊 Telco Customer Churn - Analisis Exploratorio de Datos
 
 Proyecto final de la especializacion **Python for Analytics**. La aplicacion fue desarrollada en Python con Streamlit para realizar un Analisis Exploratorio de Datos (EDA) sobre el dataset `TelcoCustomerChurn.csv`.
 
-## Descripcion del proyecto
+## 🚀 Descripcion del proyecto
 
 El objetivo del proyecto es analizar, limpiar, transformar y visualizar informacion historica de clientes de una empresa de telecomunicaciones, identificando patrones asociados a la fuga de clientes o `churn`.
 
 El enfoque del proyecto no es predictivo. La aplicacion busca apoyar la toma de decisiones mediante analisis exploratorio, estadistica descriptiva y visualizaciones interactivas.
 
-## Tecnologias utilizadas
+## 📈 Tecnologias utilizadas
 
 - Python
 - Streamlit
@@ -17,7 +17,7 @@ El enfoque del proyecto no es predictivo. La aplicacion busca apoyar la toma de 
 - Matplotlib
 - Seaborn
 
-## Estructura de la aplicacion
+## 🗂️ Estructura de la aplicacion
 
 - Home
 - Carga de datos
@@ -26,7 +26,7 @@ El enfoque del proyecto no es predictivo. La aplicacion busca apoyar la toma de 
 - Visualizaciones
 - Conclusiones
 
-## Analisis incluidos
+## 🛠️ Analisis incluidos
 
 La seccion EDA incluye 10 items:
 
