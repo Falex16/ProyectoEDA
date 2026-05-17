@@ -62,10 +62,17 @@ streamlit run app.py
 
 Agregar aqui capturas de pantalla de:
 
-- Home
-- Carga de datos
-- Analisis exploratorio
-- Conclusiones
+### Home
+![Home](imagenes/home.png)
+
+### Carga de datos
+![Carga de datos](imagenes/carga_datos.png)
+
+### Analisis exploratorio
+![Analisis exploratorio](imagenes/eda.png)
+
+### Conclusiones
+![Conclusiones](imagenes/conclusiones.png)
 
 ## Links relevantes
 
