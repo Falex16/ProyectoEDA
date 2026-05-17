@@ -1,2 +1,0 @@
-# ProyectoEDA
-Proyecto EDA Portafolio
