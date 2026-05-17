@@ -76,8 +76,8 @@ Agregar aqui capturas de pantalla de:
 
 ## Links relevantes
 
-- Repositorio GitHub: pendiente
-- Aplicacion Streamlit Cloud: pendiente
+- Repositorio GitHub: https://github.com/Falex16/ProyectoEDA/tree/main/PROYECTO_II
+- Aplicacion Streamlit Cloud: https://proyectoeda-nr2mqtqkogo6rrq2j7x9a2.streamlit.app
 
 ## Reflexion final
 
